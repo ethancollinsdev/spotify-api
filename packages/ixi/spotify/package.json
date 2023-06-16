@@ -1,0 +1,14 @@
+{
+  "name": "spotify",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "joi": "^17.9.2",
+    "node-fetch": "^3.3.1"
+  }
+}

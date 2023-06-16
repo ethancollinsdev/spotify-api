@@ -1,0 +1,6 @@
+{
+  "name": "spotify-api",
+  "scripts": {
+    "deploy": "doctl serverless deploy ."
+  }
+}

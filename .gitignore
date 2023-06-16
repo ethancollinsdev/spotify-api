@@ -1,0 +1,4 @@
+.env
+.deployed
+*.zip
+node_modules
